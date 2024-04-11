@@ -1,0 +1,2 @@
+ghc Main
+./Main
